@@ -4,7 +4,7 @@ A high-fidelity mobile banking application for **OCBC Premier Banking & Wealth M
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 1. **Start the Development Server**:
    ```bash
@@ -23,7 +23,7 @@ A high-fidelity mobile banking application for **OCBC Premier Banking & Wealth M
 
 ---
 
-## ⚡ Cross-App SSO Testing Flow
+## Cross-App SSO Testing Flow
 
 1. Open **App 1 Mobile** (`http://localhost:5175`) and log in with your WSO2 IS credentials.
 2. Open this app, **App 2 Premier Mobile** (`http://localhost:5177`).
